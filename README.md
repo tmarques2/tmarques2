@@ -13,3 +13,32 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tmarques2&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 📚 My Experiences
+ 
+In the overview below, you'll find my experiences in the technology world:
+ 
+<table>
+<tr>
+<td width="100">
+<img src="https://www.tvbrumais.com.br/imagens/clientes/1646680827_logo.jpg" width="80">
+</td>
+<td>
+<strong>Ensino Médio com Técnico em Eletroeletrônica</strong><br>
+<a href="https://sp.senai.br/unidade/campinas/" target="_blank">Escola e Faculdade de Tecnologia SENAI "Roberto Mange"</a> • 2023 – 2024<br>
+<b>Linguagens & Tecnologias:</b> 
+<code>Python</code> <code>Arduino</code> <code>CLP</code>
+</td>
+</tr>
+<tr>
+<td width="100">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFXGfJGDomMP9aSV_vJi2w_m17dVyR8udPA&s" width="80">
+</td>
+<td>
+<strong>Aprendiz de Soluções Digitais</strong><br>
+<a href="https://www.bosch.com.br/" target="_blank">Bosch Campinas</a> • Contratada<br>
+<b>Linguagens & Tecnologias:</b> 
+<code>Python</code> <code>Java</code> <code>React</code> <code>HTML5</code> <code>CSS</code> <code>JavaScript</code>
+</td>
+</tr>
+</table>
