@@ -27,7 +27,7 @@ In the overview below, you'll find my experiences in the technology world:
 <strong>Ensino Médio com Técnico em Eletroeletrônica</strong><br>
 <a href="https://sp.senai.br/unidade/campinas/" target="_blank">Escola e Faculdade de Tecnologia SENAI "Roberto Mange"</a> • 2023 – 2024<br>
 <b>Linguagens & Tecnologias:</b> 
-<code>Python</code> <code>Arduino</code> <code>CLP</code>
+<code>ESP32</code> <code>Arduino</code> <code>CLP</code>
 </td>
 </tr>
 <tr>
