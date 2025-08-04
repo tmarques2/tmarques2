@@ -44,9 +44,6 @@ In the overview below, you'll find my experiences in the technology world:
 <code>Python</code> <code>Java</code> <code>React</code> <code>HTML5</code> <code>CSS</code> <code>JavaScript</code>
 </td>
 </tr>
-</table>
-
-<table>
 <tr>
 <td width="100">
 <img src="https://www.tvbrumais.com.br/imagens/clientes/1646680827_logo.jpg" width="80">
