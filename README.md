@@ -1,8 +1,6 @@
 # 💫 About Me:
-💻 Aprendiz em Soluções Digitais na Bosch  
-🎓 Cursando Análise e Desenvolvimento de Sistemas  
-🚀 Apaixonado por tecnologia, inovação e desenvolvimento de soluções digitais  
-📈 Em constante aprendizado e evolução na área de TI
+💻 Digital Solutions Apprentice at Bosch
+🎓 Studying Systems Analysis and Development
 
 
 ## 🌐 Socials:
@@ -47,3 +45,18 @@ In the overview below, you'll find my experiences in the technology world:
 </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td width="100">
+<img src="https://www.tvbrumais.com.br/imagens/clientes/1646680827_logo.jpg" width="80">
+</td>
+<td>
+<strong>Tecnólogo em Análise e Desenvolvimento de Sistemas</strong><br>
+<a href="https://sp.senai.br/unidade/campinas/" target="_blank">Escola e Faculdade de Tecnologia SENAI "Roberto Mange"</a> • 2023 – 2024<br>
+</td>
+</tr>
+<tr>
+<td width="100">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFXGfJGDomMP9aSV_vJi2w_m17dVyR8udPA&s" width="80">
+</td>
