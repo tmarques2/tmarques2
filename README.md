@@ -50,7 +50,7 @@ In the overview below, you'll find my experiences in the technology world:
 </td>
 <td>
 <strong>Tecnólogo em Análise e Desenvolvimento de Sistemas</strong><br>
-<a href="https://sp.senai.br/unidade/campinas/" target="_blank">Escola e Faculdade de Tecnologia SENAI "Roberto Mange"</a> • 2023 – 2024<br>
+<a href="https://sp.senai.br/unidade/campinas/" target="_blank">Escola e Faculdade de Tecnologia SENAI "Roberto Mange"</a> • 2025 – 2026<br>
 </td>
 </tr>
 <tr>
