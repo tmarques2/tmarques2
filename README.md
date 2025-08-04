@@ -1,5 +1,8 @@
 # 💫 About Me:
-💼 Atualmente estou trabalhando na Bosch Brasil
+💻 Aprendiz em Soluções Digitais na Bosch  
+🎓 Cursando Análise e Desenvolvimento de Sistemas  
+🚀 Apaixonado por tecnologia, inovação e desenvolvimento de soluções digitais  
+📈 Em constante aprendizado e evolução na área de TI
 
 
 ## 🌐 Socials:
