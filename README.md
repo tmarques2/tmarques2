@@ -32,8 +32,6 @@ In the overview below, you'll find my experiences in the technology world:
 <td>
 <strong>Ensino Médio com Técnico em Eletroeletrônica</strong><br>
 <a href="https://sp.senai.br/unidade/campinas/" target="_blank">Escola e Faculdade de Tecnologia SENAI "Roberto Mange"</a> • 2023 – 2024<br>
-<b>Linguagens & Tecnologias:</b> 
-<code>ESP32</code> <code>Arduino</code> <code>CLP</code>
 </td>
 </tr>
 <tr>
@@ -43,8 +41,6 @@ In the overview below, you'll find my experiences in the technology world:
 <td>
 <strong>Aprendiz de Soluções Digitais</strong><br>
 <a href="https://www.bosch.com.br/" target="_blank">Bosch Campinas</a> • Contratada<br>
-<b>Linguagens & Tecnologias:</b> 
-<code>Python</code> <code>Java</code> <code>React</code> <code>HTML5</code> <code>CSS</code> <code>JavaScript</code>
 </td>
 </tr>
 <tr>
