@@ -1,5 +1,6 @@
 # 💫 About Me:
 💻 Digital Solutions Apprentice at Bosch
+
 🎓 Studying Systems Analysis and Development
 
 
@@ -20,7 +21,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 📚 Minhas experiências
+## 📚 My experiences
 
 <table>
 <tr>
