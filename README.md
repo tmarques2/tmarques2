@@ -52,7 +52,3 @@ In the overview below, you'll find my experiences in the technology world:
 <a href="https://sp.senai.br/unidade/campinas/" target="_blank">Escola e Faculdade de Tecnologia SENAI "Roberto Mange"</a> • 2025 – 2026<br>
 </td>
 </tr>
-<tr>
-<td width="100">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpFXGfJGDomMP9aSV_vJi2w_m17dVyR8udPA&s" width="80">
-</td>
