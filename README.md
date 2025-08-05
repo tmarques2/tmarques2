@@ -20,10 +20,8 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 📚 My Experiences
- 
-In the overview below, you'll find my experiences in the technology world:
- 
+## 📚 Minhas experiências
+
 <table>
 <tr>
 <td width="100">
