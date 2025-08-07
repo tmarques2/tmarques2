@@ -47,6 +47,15 @@
 <img src="https://www.tvbrumais.com.br/imagens/clientes/1646680827_logo.jpg" width="80">
 </td>
 <td>
+<strong>Técnico em Desenvolvimento de Sistemas</strong><br>
+<a href="https://sp.senai.br/unidade/campinas/" target="_blank">Escola e Faculdade de Tecnologia SENAI "Roberto Mange"</a> • 2025 – 2026<br>
+</td>
+</tr>
+<tr>
+<td width="100">
+<img src="https://www.tvbrumais.com.br/imagens/clientes/1646680827_logo.jpg" width="80">
+</td>
+<td>
 <strong>Tecnólogo em Análise e Desenvolvimento de Sistemas</strong><br>
 <a href="https://sp.senai.br/unidade/campinas/" target="_blank">Escola e Faculdade de Tecnologia SENAI "Roberto Mange"</a> • 2025 – 2026<br>
 </td>
